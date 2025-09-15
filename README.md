@@ -1,8 +1,15 @@
-# TOC Lab Practical Programs
+# 🎓 College Programming Assignments
 
-This repository contains my **Theory of Computation (TOC)** lab practical programs, implemented in C.
+This repository contains all my college programming assignments, organized by subjects and labs.  
+It serves as a central place to store, track, and share my work throughout the course.  
 
-## Contents
-- Programs based on automata theory
-- Regular expressions and grammar
-- Basic problem-solving in TOC
+## 📂 Contents
+- Lab Practicals  
+- Assignments  
+- Mini Projects  
+
+## 🚀 Usage
+Feel free to explore the code for learning and reference.  
+
+---
+✨ Maintained with consistency and coffee!
