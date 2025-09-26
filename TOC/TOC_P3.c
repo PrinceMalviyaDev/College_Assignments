@@ -9,11 +9,10 @@ int main()
     char ps = state1;
     char input[20]; 
     printf("Enter a String: ");
-    scanf("%s", input);
+    scanf("%s", input);                 
     int len = 0;
     while(input[len] != '\0')
         len++;
-    
     
     for(int i = 0; i < len; i++)
     {
